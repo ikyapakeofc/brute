@@ -1,0 +1,13 @@
+{
+    "master_key": "IKYAPAKE77",
+    "admin_key": "ADMIN456",
+    "keys": [
+        {"id": "key1", "key": "USERKEY1", "Premium": "Budi", "active": true},
+        {"id": "key2", "key": "USERKEY2", "Premium": "Ani", "active": true}
+    ],
+    "durations": {
+        "USERKEY1": {"days": 7, "created": "2026-01-15T10:00:00"},
+        "USERKEY2": {"days": 30, "created": "2026-01-15T10:00:00"}
+    },
+    "last_update": "2026-01-15T10:00:00"
+}
